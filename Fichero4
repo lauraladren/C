@@ -1,0 +1,16 @@
+//Lectura hasta al final
+#include<iostream>
+#include<fstream>
+using namespace std;
+int main(){
+    string linea;
+    int salir;
+    ifstream fichero("miFichero.txt");
+    ifstream fichero("miFichero.txt");
+      getline(fichero,linea);
+      cout<<linea<<endl;
+    }
+    fichero.close();
+    cin>>salir;
+    return 0;
+}
