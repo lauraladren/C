@@ -1,0 +1,9 @@
+//Programas sobre manejo de memeoria
+#include<stdio>
+
+int main(){
+    int X=3;
+    int salir;
+    printf("X= %i",X);
+    scanf("%c",&salir);
+}
