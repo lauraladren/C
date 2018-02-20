@@ -1,0 +1,10 @@
+//Programas sobre manejo de memeoria
+#include<stdio.h>
+
+int main(){
+    int a=3;
+    int b=2;
+    int salir;
+    printf("%x", &a",);
+    scanf("%c",&salir);//scanf ES LO MISMO QUE cin
+}
