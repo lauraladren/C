@@ -5,6 +5,6 @@ int main(){
     int a=3;
     int b=2;
     int salir;
-    printf("%x", &a",);
+    printf("%x",&a);
     scanf("%c",&salir);//scanf ES LO MISMO QUE cin
 }
