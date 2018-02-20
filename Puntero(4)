@@ -1,0 +1,11 @@
+//Programas sobre manejo de memeoria
+#include<stdio.h>
+
+int main(){
+    int a=3;
+    int b=2;
+    int salir;
+    printf("direccion de a= %x\n",&a);// La barra \ es un retorno de carro
+    printf("direccion de b= %x",&b);
+    scanf("%c",&salir);//scanf ES LO MISMO QUE cin
+}
