@@ -16,3 +16,7 @@ int main(){
         cout<<endl;                
       }
       
+    }
+    cin>>salir;    
+        
+    }
